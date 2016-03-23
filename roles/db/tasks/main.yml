@@ -1,0 +1,3 @@
+---
+- name: db task
+  debug: msg="task of db"

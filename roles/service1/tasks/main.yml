@@ -1,0 +1,3 @@
+---
+- name: service1 task
+  debug: msg="Task of service 1"
